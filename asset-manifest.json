@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/njd-demo/static/css/main.8cec7a37.css",
+    "main.js": "/njd-demo/static/js/main.3b8d9834.js",
+    "static/media/contoller.svg": "/njd-demo/static/media/contoller.a6d44639dcf2c6c6ce029698e807945c.svg",
+    "static/media/Group 12.svg": "/njd-demo/static/media/Group 12.ed1cb5ca293308124979bb936e6027dd.svg",
+    "static/media/card-special.png": "/njd-demo/static/media/card-special.70571fac7a774304d194.png",
+    "static/media/dsds.svg": "/njd-demo/static/media/dsds.5e15ef4b6597a552aa82bcd6b0aa6871.svg",
+    "static/media/Asset 7 1.svg": "/njd-demo/static/media/Asset 7 1.a32fd2554c2eddbb301f6e78bf10c422.svg",
+    "static/media/game-image.png": "/njd-demo/static/media/game-image.364c1ab1a6b582700bbc.png",
+    "static/media/about-us-image.svg": "/njd-demo/static/media/about-us-image.ddfd12c6537ed8ea3799dc71c59d651c.svg",
+    "static/media/about-home-mask.svg": "/njd-demo/static/media/about-home-mask.b81f9f487aa0b36f61aeb28f2b1674ee.svg",
+    "static/media/about-us-home.svg": "/njd-demo/static/media/about-us-home.2a0876884512e83bc55a56496dbc6680.svg",
+    "static/media/team-img.png": "/njd-demo/static/media/team-img.7581b7cb7b5b770d7aab.png",
+    "static/media/Mask group.svg": "/njd-demo/static/media/Mask group.02534723ed8085d8082976cd17839ff7.svg",
+    "static/media/Asset 24 2.svg": "/njd-demo/static/media/Asset 24 2.da4dc19bf5f5e5fd71634a9a70d0cf7f.svg",
+    "static/media/card-1.png": "/njd-demo/static/media/card-1.049b1fb29c18254a45bc.png",
+    "static/media/success_image.svg": "/njd-demo/static/media/success_image.17345d5a933a7bcb4b49587ad4b74938.svg",
+    "static/media/card3.png": "/njd-demo/static/media/card3.f271db1adb4cb0bc1197.png",
+    "static/media/arrow-red.png": "/njd-demo/static/media/arrow-red.1985282a61d864b0f7b7.png",
+    "static/media/email_img.png": "/njd-demo/static/media/email_img.7bff2b1ddddb424482e0.png",
+    "static/media/phone-img.png": "/njd-demo/static/media/phone-img.634a090007c863734b8a.png",
+    "static/media/logo.svg": "/njd-demo/static/media/logo.a40c0812d5fd702e65483bbeb22aeeae.svg",
+    "static/media/Group 9.svg": "/njd-demo/static/media/Group 9.c6e6445a4b7f0ba9328dd3a0b3ee4a61.svg",
+    "static/media/Group 8.svg": "/njd-demo/static/media/Group 8.a6bf9b7df8a7ea184f042b3a14c24c0d.svg",
+    "static/media/Rectangle 12.svg": "/njd-demo/static/media/Rectangle 12.b65c580a10fb3e7dfd19a1dd9711bf16.svg",
+    "index.html": "/njd-demo/index.html",
+    "static/media/Vector.svg": "/njd-demo/static/media/Vector.94d3a06a6ce966d3a7a6ff9c36cb8fe1.svg",
+    "static/media/Rectangle 13.svg": "/njd-demo/static/media/Rectangle 13.861e81ed32c198fdb482cc1796f610b4.svg",
+    "main.8cec7a37.css.map": "/njd-demo/static/css/main.8cec7a37.css.map",
+    "main.3b8d9834.js.map": "/njd-demo/static/js/main.3b8d9834.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cec7a37.css",
+    "static/js/main.3b8d9834.js"
+  ]
+}
