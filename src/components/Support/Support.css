@@ -1,0 +1,124 @@
+
+.accordion-section-title {
+font-size: 80px;
+font-weight: 700;
+line-height: 96px;
+text-align: center;
+margin:100px auto;
+color: var(--white);
+text-shadow: 0px 4px 4px  #00000040;
+
+}
+.accordion {
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 1080px;
+  margin: 2rem auto;
+}
+.accordion-item {
+  padding: 30px;
+  background-color:  #3D2795;
+  border-radius: 15px;
+}
+  .accordion-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+font-size: 20px;
+font-weight: 600;
+line-height: 30px;
+text-align: left;
+color: white;
+margin-bottom: 30px;
+}
+  /* .accordion-title,
+  .accordion-content {
+    padding: 1rem;
+  } */
+.accordion-content {
+font-size: 16px;
+font-weight: 400;
+line-height: 20.8px;
+text-align: left;
+color: #FFFFFFBF;
+
+  }
+
+  
+  @media screen and (max-width: 700px) {
+    body {
+      font-size: 18px;
+    }
+  
+    .accordion {
+      width: 90%;
+    }
+  }
+  .sec-2 h2 {
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 50px;
+    color: var(--white);
+font-size: 60px;
+font-weight: 600;
+line-height: 78px;
+text-align: center;
+text-shadow: 0px 4px 4px  #00000040;
+
+  }
+  
+.card-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin: auto;
+  position: relative;
+  padding-bottom: 75px;
+}
+.left-card,
+.right-card {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  background-color: var(--pri-dark);
+  border-radius: 20px;
+  padding: 40px;
+  width: 500px;
+}
+.left-card img,
+.right-card img {
+  width: 150px;
+}
+.left-card h5,
+.right-card h5 {
+font-size: 30px;
+font-weight: 600;
+margin: 40px 0 15px 0;
+color: var(--white);
+}
+.left-card p,
+.right-card p {
+color:  rgba(255, 255, 255, 0.75);
+font-size: 18px;
+font-weight: 400;
+text-align: left;
+line-height: 27px;
+}
+.shape1,
+.shape2 {
+position: absolute;
+right: -60px;
+top: -110px;
+}
+.shape1 {
+  right: -50px;
+  z-index: 2;
+}
+.shape2 {
+  z-index: 1;
+}

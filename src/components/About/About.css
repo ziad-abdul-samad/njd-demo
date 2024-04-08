@@ -1,0 +1,114 @@
+.about-container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding: 30px 120px;
+}
+
+.sec-1 {
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding: 100px 0 200px;
+}
+/* .sec-1 img {
+    width: 390px;
+} */
+.sec-1 .content {
+display: flex;
+flex-direction: column;
+}
+.sec-1 .content h1 {
+color: var(--white);
+font-size: 80px;
+font-weight: 700;
+line-height: 96px;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.sec-1 .content p {
+font-size: 18px;
+font-weight: 400;
+line-height: 25.2px;
+color: rgba(255, 255, 255, 1);
+}
+.sec-2 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.sec2-title{
+font-size: 60px;
+font-weight: 700;
+line-height: 72px;
+color: var(--white);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+text-align: left;
+}
+.sec-2>p {
+    margin: 30px 0 20px;
+}
+.sec-2 p {
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+color: rgba(255, 255, 255, 1);
+}
+.sec-3 {
+    display: flex;
+    flex-direction: column;
+}
+.sec-3 h1 {
+color: var(--white);
+font-size: 60px;
+font-weight: 700;
+line-height: 72px;
+text-align: left;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+margin: 80px 0 50px;
+}
+.sec-3 .team-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(300px,1fr));
+    row-gap: 60px;
+    column-gap: 24px;
+}
+.sec-3 .team-box {
+    display: flex;
+    flex-direction: column;
+}
+.sec-3 .team-box h5 {
+font-size: 20px;
+font-weight: 700;
+line-height: 28px;
+text-align: left;
+color: var(--white);
+}
+.sec-3 .team-box p {
+font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+text-align: left;
+color: var(--white);
+}
+.sec-4 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin: 200px 0 ;
+    gap: 30px;
+    padding-bottom: 100px;
+}
+.sec-4 h2 {
+font-size: 60px;
+font-weight: 700;
+line-height: 72px;
+color: var(--white);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.sec-4 p {
+color: var(--white);
+font-size: 18px;
+font-weight: 400;
+line-height: 27px;
+
+}
